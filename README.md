@@ -1,1 +1,1 @@
-Em parceria com o departamento de marketing, foi realizada uma análise de uma loja online por meio de um teste A/B, com o objetivo de formular hipóteses para aumentar a receita.
+Análise do comportamento dos usuários de uma startup do setor alimentício, incluindo estudo da qualidade do aplicativo, análise do funil de vendas e das taxas de conversão.
